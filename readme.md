@@ -20,7 +20,7 @@ An end-to-end Machine Learning web application built with Python, Scikit-Learn, 
 * **Data Processing & Visualization:** Pandas, NumPy, Matplotlib
 
 ---
-
+🚀 **Live Web App:** [Student Marks Predictor](https://student-marks-predictor-bwzwa2498gp8yzk6ekkr39.streamlit.app/)
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
